@@ -65,7 +65,7 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/AtikTouhid)
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/touhidatik/)
 <br/>
-<br />
+
 
 # Technologies
 
@@ -76,7 +76,7 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 </p>
 
 <br>
-<br>
+
 
 # Current Status:
 
@@ -89,14 +89,9 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 
 # Overall Status:
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mdatikbhuiyan&card_width=500)](https://github.com/MdAtikBhuiyan/MdAtikBhuiyan) 
-
-
-<br />
-
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdAtikBhuiyan&theme=default)
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mdatikbhuiyan)](https://github.com/MdAtikBhuiyan/MdAtikBhuiyan) 
 
 
 <br />
